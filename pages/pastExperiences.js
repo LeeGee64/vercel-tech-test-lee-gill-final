@@ -66,7 +66,7 @@ export default function PastExperiences() {
                     <h3 className={styles.subTitle}>Inpsirations</h3>
                     <div>
                         <div className= {styles.pageText}>
-                            <p>Out of all the material I've taken in to become a more effective salesperson, nothing has stuck with me longer than <span className= {styles.bookTitle}>Never Split The Difference: Negotiating As If Your Life Depended On It</span>, an accessible guide to successful negotations written by former FBI investigator 
+                            <p>Out of all the material I've taken in to become a more effective salesperson, nothing has stuck with me longer than <span className= {styles.bookTitle}>Never Split The Difference: Negotiating As If Your Life Depended On It</span>, an accessible guide to successful negotations written by former FBI Hostage Negotiator
                                 Chris Voss.</p>
                             <p>In just ten chapters, Voss completely shifted the way I looked at interpersonal conflict: from a challenge to a potential opportunity. 
                                 One of the biggest flaws I had as a professional was assuming everyone I spoke to saw the world the way I saw it. It took reading <span className= {styles.bookTitle}>Never Split The Difference</span> to show me that the key to reaching true understanding was to mindfully collect information about 

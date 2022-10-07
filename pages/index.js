@@ -22,7 +22,7 @@ export default function Home() {
             <p>Here you will find all the information you need to assess Lee Gill's understanding of Next.js, Vercel,
             and general sales concepts.</p>
 
-            <p>To learn more about Vercel, follow this link: 
+            <p>To learn more about Vercel, follow this link:  
               <a href= "https://vercel-tech-test-lee-gill-final.vercel.app/api/handlers">https://vercel-tech-test-lee-gill-final.vercel.app/api/handlers</a> </p>
 
             <p>To find out more info, use the links in the footer to reach me/see the code.</p>
