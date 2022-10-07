@@ -59,7 +59,7 @@ export default function Layout({children}) {
                 alt="Twitter"
               />
             </a>
-          <a className={styles.logo} href="https://github.com/LeeGee64/vercel-tech-test/tree/master/vercel-tech-test-lee-gill">
+          <a className={styles.logo} href="https://github.com/LeeGee64/vercel-tech-test-lee-gill-final">
             <Image
                 priority
                 src="/Images/logos/GitHub-Mark-Light-64px.png"

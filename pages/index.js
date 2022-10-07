@@ -23,7 +23,7 @@ export default function Home() {
             and general sales concepts.</p>
 
             <p>To learn more about Vercel, follow this link: 
-              <a href= "#">api link</a> </p>
+              <a href= "https://vercel-tech-test-lee-gill-final.vercel.app/api/handlers">https://vercel-tech-test-lee-gill-final.vercel.app/api/handlers</a> </p>
 
             <p>To find out more info, use the links in the footer to reach me/see the code.</p>
           </section>
